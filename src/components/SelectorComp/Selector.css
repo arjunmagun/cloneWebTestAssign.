@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400&display=swap");
+
+.detailContainer {
+  height: 150px;
+  margin: 50px 60px;
+}
+#numberInputs {
+  width: 100px;
+  margin: 0 10px;
+  font-family: "Raleway", sans-serif;
+}
+
+#searchBtn {
+  margin: 0 20px;
+  padding: 5px 80px;
+  background-color: #000;
+  border-radius: 0;
+  font-family: "Raleway", sans-serif;
+}

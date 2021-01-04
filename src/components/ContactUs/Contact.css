@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap");
+
+.contactContainer {
+  text-align: center;
+  height: 700px;
+  font-family: "Raleway", sans-serif;
+  background-color: #f5f5f5;
+}
+
+.contactHead {
+  font-size: 25px;
+  margin: 50px;
+  padding-top: 60px;
+}
+
+.detailContainer {
+  width: 100%;
+  padding-right: 140px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contactDetails {
+  font-size: 20px;
+  height: 30px;
+}
+
+.formContainer {
+  width: 60%;
+  margin: 0 20%;
+}
+
+#contactBtn {
+  width: 100%;
+  background-color: #000000;
+}

@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Domine&family=Lobster&display=swap");
+
+.headlineContainer {
+  margin: 100px 0 50px 0;
+  height: 90px;
+  text-align: center;
+}
+.brandName {
+  font-weight: 400;
+  font-family: "Domine", serif;
+  color: #242323;
+  font-size: 50px;
+}
+
+.firstWord {
+  font-family: "Lobster", cursive;
+}
+
+.headline {
+  font-family: "Domine", serif;
+  color: #242323;
+  font-size: 20px;
+}
+
+.bgImg1 {
+  background-image: url("../../Assests/bgImg1.png");
+  background-repeat: no-repeat;
+  height: 600px;
+  margin: 0 60px 0 60px;
+}

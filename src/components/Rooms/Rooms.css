@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap");
+
+.roomsContainer {
+  background-image: url("../../Assests//bgImg2.png");
+  background-repeat: no-repeat;
+  height: 600px;
+  margin: 0 60px 100px 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.innerRoom {
+  height: 366px;
+  width: 391px;
+  background-color: #ffffff;
+  font-family: "Raleway", sans-serif;
+}
+
+.innerRoom h1 {
+  margin-top: 12%;
+  font-size: 25px;
+}
+
+.innerRoom p {
+  width: 75%;
+  margin: 12%;
+}
+
+#roomBtn {
+  font-size: 20px;
+  font-family: "Darker Grotesque", sans-serif;
+  font-weight: 500;
+  border-radius: 1%;
+  padding: 5 20px 5 20px;
+  transition: 400ms;
+  outline: none;
+}
+
+#roomBtn:hover {
+  background-color: #000000;
+}

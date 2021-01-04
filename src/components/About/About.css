@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap");
+
+.aboutContainer {
+  height: 350px;
+  text-align: center;
+  font-family: "Raleway";
+  font-weight: 300;
+  color: black;
+}
+
+.aboutContainer h1 {
+  font-size: 25px;
+}
+
+.aboutContainer P {
+  width: 55%;
+  margin: 50px 0 25% 25%;
+}

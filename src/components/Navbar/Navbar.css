@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500&display=swap");
+
+#navbar {
+  background-color: #242323;
+  height: 80px;
+  padding: 0 50px 0 50px;
+}
+
+#navLinks {
+  width: 80%;
+  line-height: 42px;
+  margin: 0 20px 0 20px;
+}
+
+.link {
+  width: 80%;
+  font-size: 20px;
+  font-family: "Darker Grotesque", sans-serif;
+  color: #ffffff;
+}
+
+#btn {
+  font-size: 20px;
+  font-family: "Darker Grotesque", sans-serif;
+  font-weight: 500;
+  border-radius: 1%;
+  margin-right: 50px;
+  padding: 5 20px 5 20px;
+  transition: 400ms;
+  outline: none;
+}
+
+#btn:hover {
+  background-color: #fff;
+}
